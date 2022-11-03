@@ -1,0 +1,76 @@
+body {
+  background-image: url("images/aquarel.jpeg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-origin: content-box;
+  text-align: center;
+  line-height: 40px;
+  font-family: 'Montserrat', sans-serif;
+  color: #80558C
+}
+
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  text-decoration: none;
+  display: inline;
+  margin: 0 15px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a { height: auto;
+}
+
+
+.logos_purple:hover {
+  /* transform: scale(1.5); */
+  font-size: 1.5em;
+}
+
+/* div {
+  /* border: 7px solid white; */
+/* } */
+
+.profile_picture {
+  border-radius: 50%;
+}
+
+.logos_purple {
+  color: #80558C;
+  transition: 1s;
+}
+
+.container {
+  margin: 0 300px;
+  background-color: #d6a0ab53;
+  border-radius: 20px;
+  margin: 10px 30px;
+}
+
+.containerOne {
+  margin: 0 100px;
+  background-color: #d6a0ab53;
+  border-radius: 20px;
+}
+
+button{
+  background-color: #d6a0ab53;
+  border-radius: 25px;
+  padding: 10px;
+  color: #80558C;
+}
+
+.container > p {
+  display: none;
+}
+
+.container:hover > p{
+display: block;
+}
