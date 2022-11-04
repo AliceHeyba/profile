@@ -7,7 +7,7 @@ body {
   text-align: center;
   line-height: 40px;
   font-family: 'Montserrat', sans-serif;
-  color: #80558C
+  color: #80558C;
 }
 
 
@@ -48,10 +48,9 @@ a { height: auto;
 }
 
 .container {
-  margin: 0 300px;
   background-color: #d6a0ab53;
   border-radius: 20px;
-  margin: 10px 30px;
+  margin: 10px 100px;
 }
 
 .containerOne {
